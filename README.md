@@ -60,8 +60,8 @@ Evaluated on a stratified 20% hold-out test set (885 students, `random_state=42`
 ## Run It Locally
 
 ```bash
-git clone https://github.com/Teninlanimi/predict-students-dropout-and-academic-success.git
-cd predict-students-dropout-and-academic-success
+git clone https://github.com/Teninlanimi/academic-outcome-prediction.git
+cd academic-outcome-prediction
 pip install -r requirements.txt
 streamlit run app.py
 ```
